@@ -1,2 +1,2 @@
 # personnelInformationsystem
- The project was developed using the C# programming language.
+ The project was developed using the C# and MySQL  languages.
